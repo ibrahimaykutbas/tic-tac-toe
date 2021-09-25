@@ -1,9 +1,10 @@
 # Tic - Tac - Toe
 
-React'ın kendi dökümantasyonu olan öğreticide bulunan tic-tac-toe alıştırması. <br> <br>
-[React Öğretici](https://tr.reactjs.org/tutorial/tutorial.html) <br> <br>
-[Projeyi Denemek İçin](https://tic-tac-toe-6c20d.web.app/)
+React'ın kendi dökümantasyonu olan öğreticide bulunan tic-tac-toe alıştırması.
 
+[React Öğretici](https://tr.reactjs.org/tutorial/tutorial.html)
+
+[Projeyi Denemek İçin](https://tic-tac-toe-6c20d.web.app/)
 
 ## Learn More
 
